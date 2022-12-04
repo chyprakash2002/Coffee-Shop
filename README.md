@@ -1,5 +1,7 @@
 # Coffee Shop Website
-# Demo site link
+Coffee Shop Website written in HTML, CSS, and JavaScript
+
+# Demo site links
 With Github Url 👉 https://chyprakash2002.github.io/Coffee-Shop-Website
 
 With Other Url 👉 https://loquacious-buttercream-35a2c3.netlify.app/
